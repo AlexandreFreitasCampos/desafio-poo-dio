@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30d1f08f-0c16-442b-aeb7-d48d9d2b82e9" name="Changes" comment="first commit">
+    <list default="true" id="30d1f08f-0c16-442b-aeb7-d48d9d2b82e9" name="Changes" comment="Mentoria e curso">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -33,17 +39,31 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Projetos/desafio-dio-POO/src/Main.java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Projetos/desafio-dio-POO/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="desafio-dio-POO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,11 +88,28 @@
       <option name="project" value="LOCAL" />
       <updated>1725313043412</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mentoria e curso">
+      <option name="closed" value="true" />
+      <created>1725317019967</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725317019967</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Mentoria e curso">
+      <option name="closed" value="true" />
+      <created>1725317065914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725317065914</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Mentoria e curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mentoria e curso" />
   </component>
 </project>
